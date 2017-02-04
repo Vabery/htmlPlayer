@@ -1,0 +1,33 @@
+body {
+  background-color: #e8e8e8;
+  font-family: "Bahiana";
+  }
+
+  .player{
+    margin: 0 auto;
+    width:300px;
+}
+#audio{
+  margin: 0 auto;
+}
+
+
+#playlist li{
+  font-size: 30px;
+  text-align: center;
+  padding: 2px 0 ;
+}
+#playlist li:hover{
+  color: blue;
+}
+
+
+button{
+  width: 120px;
+  margin: 0 13px;
+
+}
+
+.active{
+  color:blue;
+}
